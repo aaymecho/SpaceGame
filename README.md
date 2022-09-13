@@ -1,5 +1,5 @@
 # Space Game
-Aliens have conquered parts of the galaxy and the universe is in danger of being in turmoil, a sole traveler in space must conquer and defeat these aliens in order to restore balance.
+This repository contains a project lab from Georgia Institue of Technology ECE 2036 course. Aliens have conquered parts of the galaxy and the universe is in danger of being in turmoil, a sole traveler in space must conquer and defeat these aliens in order to restore balance.
 
 # Requirements (basic)
 1. mbed LPC1768
